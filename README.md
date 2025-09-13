@@ -22,9 +22,9 @@
       * Download GloVe Embeddings: Download a pre-trained GloVe embedding file (e.g., glove.6B.50d.txt) and update the file path in the notebook. The current path is set to a specific location that you will need to change.
       * Run the Jupyter Notebook: Open the Poetry(LanguageModelling).ipynb notebook and run the cells sequentially.
     ** OR 
-      * You can run this on Kaggle:-[Kaggle](URL)
+      * You can run this on Kaggle:-[Kaggle](https://www.kaggle.com/code/pranjalameta/poetry-generatrion-language-model)
  ## Results
     * The model's training history shows that the loss increases while the accuracy remains low. 
-    * This indicates that the model is struggling to generalize and is likely overfitting or requires more training But this also has to do with the fact that, In poem after "The" any word can come.
+    * This also has to do with the fact that, In poem after "The" any word can come.
      
      
