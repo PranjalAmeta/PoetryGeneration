@@ -21,7 +21,6 @@
    + Install Dependencies: Ensure you have the necessary Python libraries installed. The main libraries are TensorFlow, NumPy, and Pandas.
    + Download GloVe Embeddings: Download a pre-trained GloVe embedding file (e.g., glove.6B.50d.txt) and update the file path in the notebook. The current path is set to a specific location that you will need to change.
    + Run the Jupyter Notebook: Open the Poetry(LanguageModelling).ipynb notebook and run the cells sequentially.
-   ** OR 
    + You can run this on Kaggle:-[Kaggle](https://www.kaggle.com/code/pranjalameta/poetry-generatrion-language-model)
  ## Results
    + The model's training history shows that the loss increases while the accuracy remains low. 
