@@ -17,7 +17,7 @@
    + <eos> tokens are used to make the model learn to end generating a sentence at this token
    + A different sampling model is created as the model will only generate one word per time step.
  ## How to Run the code
-   ** To run this project, you will need to:**
+   + To run this project, you will need to:
    + Install Dependencies: Ensure you have the necessary Python libraries installed. The main libraries are TensorFlow, NumPy, and Pandas.
    + Download GloVe Embeddings: Download a pre-trained GloVe embedding file (e.g., glove.6B.50d.txt) and update the file path in the notebook. The current path is set to a specific location that you will need to change.
    + Run the Jupyter Notebook: Open the Poetry(LanguageModelling).ipynb notebook and run the cells sequentially.
